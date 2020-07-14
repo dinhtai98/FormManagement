@@ -1,6 +1,7 @@
-# work
+# Form Managenment
 
 A new Flutter application.
+Form Managenment helps manage forms to facilitate usage
 
 ## Getting Started
 
