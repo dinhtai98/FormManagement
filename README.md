@@ -7,4 +7,4 @@ Form Managenment helps manage forms to facilitate usage
 
 This project is a starting point for a Flutter application.
 
-The project uses postgresql database combination
+The project uses postgresql database
